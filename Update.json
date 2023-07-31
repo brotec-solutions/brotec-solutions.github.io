@@ -1,6 +1,0 @@
-{
-    "firmware_version" :"1.1",
-    "firmware_update_url" : "https://brotec-solutions.github.io/firmware_1_1.bin",
-    "profiles_version" : "1.0",
-    "profiles_update_url" : "https://brotec-solutions.github.io/database_official.txt"
-}
