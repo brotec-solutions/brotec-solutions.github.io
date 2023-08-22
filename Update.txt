@@ -1,4 +1,4 @@
-1.1
-https://brotec-solutions.github.io/firmware_1_1.bin
 1.0
+https://brotec-solutions.github.io/firmware_1_1.bin
+1.1
 https://brotec-solutions.github.io/database_official.txt
