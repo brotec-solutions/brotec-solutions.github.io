@@ -1,5 +1,5 @@
 
 1.3
-https://brotec-solutions.github.io/Test/firmware_1_2.bin
+https://brotec-solutions.github.io/Test/firmware_1_3.bin
 1.1
 https://brotec-solutions.github.io/Test/database_official.txt
